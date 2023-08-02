@@ -23,3 +23,15 @@
 - input() reads data from the user.
 - input() function returns a string.
 
+## Conditional statements
+
+- try and except concept to avoid traceback.
+
+## Functions
+
+- It is part of the store and reuse part of programming.
+- def only defines the function.
+- You must invoke(call) a function.
+- An argument is a value we pass into the function as its input when we call the function.
+- Return statement stops the function and determines the residual value.
+- 
